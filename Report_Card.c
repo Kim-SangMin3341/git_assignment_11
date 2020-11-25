@@ -6,7 +6,8 @@ int main()
 	int math = 90;
 	int eng = 90;
 	int sum = 80+90+90;
-
+	
+	printf("print result");
 	printf("korean: %d\n",kor);
 	printf("Math: %d\n",math);
 	printf("English: %d\n",eng);
