@@ -11,4 +11,6 @@ int main()
 	printf("korean: %d\n",kor);
 	printf("Math: %d\n",math);
 	printf("English: %d\n",eng);
+
+	return 0;
 }
